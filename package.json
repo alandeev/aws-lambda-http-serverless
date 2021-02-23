@@ -1,0 +1,8 @@
+{
+  "name": "aws-lambda-http-serverless",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alandev2/aws-lambda-http-serverless.git",
+  "author": "alandev2 <alanworking1@gmail.com>",
+  "license": "MIT"
+}
